@@ -1,0 +1,16 @@
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.exe
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.deps.json
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.runtimeconfig.json
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.runtimeconfig.dev.json
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.dll
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\ref\zad2.dll
+C:\Users\adria\source\repos\Arrays\zad2\bin\Debug\net5.0\zad2.pdb
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.csproj.AssemblyReference.cache
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.AssemblyInfo.cs
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.dll
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\ref\zad2.dll
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.pdb
+C:\Users\adria\source\repos\Arrays\zad2\obj\Debug\net5.0\zad2.genruntimeconfig.cache
