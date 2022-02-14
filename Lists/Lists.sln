@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveFirst", "zad1\RemoveFirst.csproj", "{097B566F-B19B-45FD-A2E9-FA9B8F6081C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minus5", "Minus5\Minus5.csproj", "{ACEA56B2-EAF7-43C5-BC4F-0E62B1386C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097B566F-B19B-45FD-A2E9-FA9B8F6081C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097B566F-B19B-45FD-A2E9-FA9B8F6081C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097B566F-B19B-45FD-A2E9-FA9B8F6081C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097B566F-B19B-45FD-A2E9-FA9B8F6081C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACEA56B2-EAF7-43C5-BC4F-0E62B1386C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEA56B2-EAF7-43C5-BC4F-0E62B1386C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEA56B2-EAF7-43C5-BC4F-0E62B1386C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEA56B2-EAF7-43C5-BC4F-0E62B1386C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15541C56-9E49-4E05-B9FD-2AF48CCE4C46}
+	EndGlobalSection
+EndGlobal

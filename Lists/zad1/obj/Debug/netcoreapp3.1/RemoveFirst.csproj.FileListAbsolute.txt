@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\bin\Debug\netcoreapp3.1\RemoveFirst.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Lists\zad1\obj\Debug\netcoreapp3.1\RemoveFirst.genruntimeconfig.cache
