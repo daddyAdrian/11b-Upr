@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\bin\Debug\netcoreapp3.1\DeistviqSMasivi.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\DeistviqSMasivi\obj\Debug\netcoreapp3.1\DeistviqSMasivi.genruntimeconfig.cache

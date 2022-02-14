@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListManipulator", "ListManipulator\ListManipulator.csproj", "{8DF0034D-0E45-49EB-AA25-B89C3B34EDCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListManipulator", "ListManipulator\ListManipulator.csproj", "{8DF0034D-0E45-49EB-AA25-B89C3B34EDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeistviqSMasivi", "DeistviqSMasivi\DeistviqSMasivi.csproj", "{ED1F2877-9FC3-4EE1-933F-3090A33EDCD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8DF0034D-0E45-49EB-AA25-B89C3B34EDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DF0034D-0E45-49EB-AA25-B89C3B34EDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DF0034D-0E45-49EB-AA25-B89C3B34EDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1F2877-9FC3-4EE1-933F-3090A33EDCD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1F2877-9FC3-4EE1-933F-3090A33EDCD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1F2877-9FC3-4EE1-933F-3090A33EDCD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1F2877-9FC3-4EE1-933F-3090A33EDCD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
