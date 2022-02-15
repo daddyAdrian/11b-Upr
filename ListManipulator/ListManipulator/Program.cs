@@ -12,7 +12,7 @@ namespace ListManipulator
             while(true)
             {
                 string[] input = Console.ReadLine().Split().ToArray();
-                if(input[0] == "print")
+                if(input[0] == "end")
                 {
                     Console.WriteLine(string.Join(" ", nums));
                     break;
@@ -25,12 +25,20 @@ namespace ListManipulator
                 }
                 else if(input[0] == "contains")
                 {
-                    Console.WriteLine(nums.IndexOf(int.Parse(input[1])));
+                    if(nums.Contains(int.Parse(input[1])))
+                        {
+                            Console.WriteLine("YES");
+                            nums.Remove(int.Parse(input[1]));
+                        }
                 }
                 else if(input[0] == "remove")
                 {
-                    int index = int.Parse(input[1]);
-                    nums.RemoveAt(index);
+                    nums.Remove(int.Parse(input[1]));
+                }
+                else if(input[0] == "statistic")
+                {
+                    Console.WriteLine("count = " + nums.Count);
+                    Console.WriteLine("sum = " + nums.Sum());
                 }
             }
 

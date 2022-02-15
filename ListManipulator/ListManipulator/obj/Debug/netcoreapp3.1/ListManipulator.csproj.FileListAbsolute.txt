@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\bin\Debug\netcoreapp3.1\ListManipulator.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\ListManipulator\ListManipulator\obj\Debug\netcoreapp3.1\ListManipulator.genruntimeconfig.cache
