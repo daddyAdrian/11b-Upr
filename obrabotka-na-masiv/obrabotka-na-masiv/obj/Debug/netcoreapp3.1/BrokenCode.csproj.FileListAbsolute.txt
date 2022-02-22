@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\bin\Debug\netcoreapp3.1\BrokenCode.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.genruntimeconfig.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\obrabotka-na-masiv\obj\Debug\netcoreapp3.1\BrokenCode.csprojAssemblyReference.cache

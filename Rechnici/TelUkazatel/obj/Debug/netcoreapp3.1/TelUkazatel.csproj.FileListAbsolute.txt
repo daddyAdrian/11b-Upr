@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\bin\Debug\netcoreapp3.1\TelUkazatel.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\TelUkazatel\obj\Debug\netcoreapp3.1\TelUkazatel.genruntimeconfig.cache

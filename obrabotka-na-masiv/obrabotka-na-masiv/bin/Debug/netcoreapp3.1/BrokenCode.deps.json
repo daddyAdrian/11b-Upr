@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BrokenCode/1.0.0": {
+        "runtime": {
+          "BrokenCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BrokenCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

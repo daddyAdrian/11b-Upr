@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\bin\Debug\netcoreapp3.1\NechetniSreshtaniq.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\obrabotka-na-masiv\NechetniSreshtaniq\obj\Debug\netcoreapp3.1\NechetniSreshtaniq.genruntimeconfig.cache

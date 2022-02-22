@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\bin\Debug\netcoreapp3.1\minior.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Rechnici\minior\obj\Debug\netcoreapp3.1\minior.genruntimeconfig.cache
