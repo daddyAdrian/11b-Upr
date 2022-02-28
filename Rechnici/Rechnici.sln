@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelUkazatel", "TelUkazatel\TelUkazatel.csproj", "{3DC953D5-9250-43F1-972E-6DFB7F7C42B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TelUkazatel", "TelUkazatel\TelUkazatel.csproj", "{3DC953D5-9250-43F1-972E-6DFB7F7C42B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minior", "minior\minior.csproj", "{7619A6EA-91D0-4D64-9EBE-55B16C7071B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minior", "minior\minior.csproj", "{7619A6EA-91D0-4D64-9EBE-55B16C7071B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "supermarket", "supermarket\supermarket.csproj", "{BD5672FC-40CE-4FD5-A5F8-8F661399218C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7619A6EA-91D0-4D64-9EBE-55B16C7071B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7619A6EA-91D0-4D64-9EBE-55B16C7071B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7619A6EA-91D0-4D64-9EBE-55B16C7071B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5672FC-40CE-4FD5-A5F8-8F661399218C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5672FC-40CE-4FD5-A5F8-8F661399218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5672FC-40CE-4FD5-A5F8-8F661399218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5672FC-40CE-4FD5-A5F8-8F661399218C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
