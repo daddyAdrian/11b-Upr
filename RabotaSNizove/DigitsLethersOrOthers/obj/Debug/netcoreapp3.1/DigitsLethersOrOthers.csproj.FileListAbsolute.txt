@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\bin\Debug\netcoreapp3.1\DigitsLethersOrOthers.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\RabotaSNizove\DigitsLethersOrOthers\obj\Debug\netcoreapp3.1\DigitsLethersOrOthers.genruntimeconfig.cache
