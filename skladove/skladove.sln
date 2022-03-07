@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sklad1", "sklad1\sklad1.csproj", "{294888C5-2522-40A1-A3DF-02D4E3D1C09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sklad2", "sklad2\sklad2.csproj", "{2391FD2F-5C2C-41C5-876A-306F207AB807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294888C5-2522-40A1-A3DF-02D4E3D1C09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294888C5-2522-40A1-A3DF-02D4E3D1C09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294888C5-2522-40A1-A3DF-02D4E3D1C09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294888C5-2522-40A1-A3DF-02D4E3D1C09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2391FD2F-5C2C-41C5-876A-306F207AB807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2391FD2F-5C2C-41C5-876A-306F207AB807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2391FD2F-5C2C-41C5-876A-306F207AB807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2391FD2F-5C2C-41C5-876A-306F207AB807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C81D12-73CE-4F13-BC36-E33FE0D14D7E}
+	EndGlobalSection
+EndGlobal
