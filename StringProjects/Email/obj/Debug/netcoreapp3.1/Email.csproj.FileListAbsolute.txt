@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\bin\Debug\netcoreapp3.1\Email.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Email\obj\Debug\netcoreapp3.1\Email.genruntimeconfig.cache

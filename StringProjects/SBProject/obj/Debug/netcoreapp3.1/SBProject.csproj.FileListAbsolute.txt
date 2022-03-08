@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\bin\Debug\netcoreapp3.1\SBProject.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\SBProject\obj\Debug\netcoreapp3.1\SBProject.genruntimeconfig.cache
