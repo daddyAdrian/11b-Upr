@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\bin\Debug\netcoreapp3.1\Cenzura.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\StringProjects\Cenzura\obj\Debug\netcoreapp3.1\Cenzura.genruntimeconfig.cache

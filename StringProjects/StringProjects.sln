@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Email", "Email\Email.csproj", "{2E4F1175-A717-4729-86E4-B3581D2A1C2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBProject", "SBProject\SBProject.csproj", "{71B6B7D8-90DF-4839-91E4-7357D39A106E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBProject", "SBProject\SBProject.csproj", "{71B6B7D8-90DF-4839-91E4-7357D39A106E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cenzura", "Cenzura\Cenzura.csproj", "{3FEBC487-65D8-4EBB-9EEA-215BC85015F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{71B6B7D8-90DF-4839-91E4-7357D39A106E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B6B7D8-90DF-4839-91E4-7357D39A106E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B6B7D8-90DF-4839-91E4-7357D39A106E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEBC487-65D8-4EBB-9EEA-215BC85015F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEBC487-65D8-4EBB-9EEA-215BC85015F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEBC487-65D8-4EBB-9EEA-215BC85015F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEBC487-65D8-4EBB-9EEA-215BC85015F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
