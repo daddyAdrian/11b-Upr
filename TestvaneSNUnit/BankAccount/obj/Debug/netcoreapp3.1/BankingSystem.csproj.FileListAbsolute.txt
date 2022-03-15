@@ -1,0 +1,13 @@
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\TestvaneSNUnit\BankAccount\obj\Debug\netcoreapp3.1\BankingSystem.csprojAssemblyReference.cache
