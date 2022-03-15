@@ -38,10 +38,22 @@ namespace BankingSystem
             {
                 this.balance += 200;
             }
-            else
+            else if(this.balance>= 3000)
             {
                 this.balance += 300;
             }
+        }
+        public void PaymentForCredit(decimal payment)
+        {
+            if(payment<=0)
+            {
+                throw new ArgumentException("Payment cannot be zero or negative!");
+            }
+            if(this.Balance<payment)
+            {
+                throw new ArgumentException("Not enough money!");
+            }
+            this.Balance -= payment;
         }
     }
 }

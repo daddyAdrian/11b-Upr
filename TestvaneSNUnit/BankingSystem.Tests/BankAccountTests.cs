@@ -64,5 +64,23 @@ namespace BankingSystem.Tests
             account.Bonus();
             Assert.IsTrue(account.Balance == 900);
         }
+        [Test]
+        public void PaymentForCreditShouldThrowArgumentExceptionWhenNotEnoughMoney()
+        {
+            BankAccount account = new BankAccount(20);
+            Assert.Throws<ArgumentException>(() => account.PaymentForCredit(200));
+        }
+        [Test]
+        public void PaymentForCreditShouldThrowArgumentExceptionWhenPaymentIsNegative()
+        {
+            BankAccount account = new BankAccount(20);
+            Assert.Throws<ArgumentException>(() => account.PaymentForCredit(-10));
+        }
+        [Test]
+        public void PaymentForCreditShouldThrowArgumentExceptionWhenPaymentIsZero()
+        {
+            BankAccount account = new BankAccount(20);
+            Assert.Throws<ArgumentException>(() => account.PaymentForCredit(0));
+        }
     }
 }
