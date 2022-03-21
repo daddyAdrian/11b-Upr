@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoyqqPtWuAhky8MKP9zo6MekrEmehIP7l7QQJ5/q/93Fu7nOwuoxRHnk1pp98GGlt2fDQuW67uOGFSXuPGAD0g==",
+  "dgSpecHash": "wJOPzUgFBYblKfYMrGi3uLS7B2mIs3ZDa9Urqc1OliBFA4HXNJsBRKhyv5k2lkyGESUMNZ8xqdh3SskrBn7lnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\Adrian 11b\\11b-Upr\\Скелет\\Lab\\AxeTests\\AxeTests1.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\Adrian 11b\\11b-Upr\\Скелет\\Lab\\AxeTests\\Skeleton.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

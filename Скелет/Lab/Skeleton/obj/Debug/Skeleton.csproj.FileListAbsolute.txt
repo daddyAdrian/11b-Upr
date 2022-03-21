@@ -7,7 +7,7 @@ D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\La
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\bin\Debug\Skeleton.exe.config
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\bin\Debug\Skeleton.exe
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\bin\Debug\Skeleton.pdb
-C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\obj\Debug\Skeleton.csprojAssemblyReference.cache
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\obj\Debug\Skeleton.csproj.CoreCompileInputs.cache
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\obj\Debug\Skeleton.exe
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\obj\Debug\Skeleton.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\Skeleton\obj\Debug\Skeleton.csproj.AssemblyReference.cache

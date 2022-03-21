@@ -89,7 +89,6 @@ C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\bin\Debu
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\bin\Debug\netcoreapp3.1\Skeleton.exe
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\bin\Debug\netcoreapp3.1\Skeleton.pdb
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\bin\Debug\netcoreapp3.1\Skeleton.exe.config
-C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.csprojAssemblyReference.cache
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.AssemblyInfoInputs.cache
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.AssemblyInfo.cs
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.csproj.CoreCompileInputs.cache
@@ -97,3 +96,5 @@ C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debu
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.dll
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.pdb
 C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.genruntimeconfig.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\Скелет\Lab\AxeTests\obj\Debug\netcoreapp3.1\AxeTests1.GeneratedMSBuildEditorConfig.editorconfig
