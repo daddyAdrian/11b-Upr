@@ -1,0 +1,27 @@
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.exe
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.dev.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.genruntimeconfig.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager\obj\Debug\netcoreapp3.1\CarManager.genruntimeconfig.cache

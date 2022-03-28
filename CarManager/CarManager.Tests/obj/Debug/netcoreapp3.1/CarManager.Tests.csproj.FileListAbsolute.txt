@@ -1,0 +1,202 @@
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.exe
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.deps.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.runtimeconfig.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.runtimeconfig.dev.json
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csprojAssemblyReference.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfoInputs.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfo.cs
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CopyComplete
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
+E:\_PMG\2020-21\11B\OOP\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfo.cs
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.exe
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.deps.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.runtimeconfig.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.Tests.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CopyComplete
+C:\Users\Student\Documents\Adrian 11b\11b-Upr\CarManager\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
