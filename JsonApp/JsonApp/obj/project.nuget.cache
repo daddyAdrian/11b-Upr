@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSBh82W5rWhKIKVrfgVLvYtNUO/qT/rolrfZzLE+uBIRZNWpeMUN4KfivqYzobv1w2q6U/96W0Efd0lQFKnDfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Documents\\Adrian 11b\\11b-Upr\\JsonApp\\JsonApp\\JsonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

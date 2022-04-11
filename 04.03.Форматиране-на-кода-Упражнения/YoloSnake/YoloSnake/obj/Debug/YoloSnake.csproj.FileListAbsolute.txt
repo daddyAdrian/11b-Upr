@@ -1,0 +1,10 @@
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\bin\Debug\YoloSnake.exe.config
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\bin\Debug\YoloSnake.exe
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\bin\Debug\YoloSnake.pdb
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\obj\Debug\YoloSnake.csprojResolveAssemblyReference.cache
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\obj\Debug\YoloSnake.exe
+c:\users\edu\documents\visual studio 2015\Projects\YoloSnake\YoloSnake\obj\Debug\YoloSnake.pdb
+C:\Users\Edu\Desktop\YoloSnake\YoloSnake\bin\Debug\YoloSnake.exe.config
+C:\Users\Edu\Desktop\YoloSnake\YoloSnake\obj\Debug\YoloSnake.exe
+C:\Users\Edu\Desktop\YoloSnake\YoloSnake\obj\Debug\YoloSnake.pdb
+C:\Users\Edu\Desktop\YoloSnake\YoloSnake\obj\Debug\YoloSnake.csprojResolveAssemblyReference.cache
